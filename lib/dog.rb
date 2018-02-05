@@ -11,5 +11,8 @@ class Dog
    def breed=(breed) #setter
      @breed = breed
    end
+   def breed #setter
+     @breed 
+   end
 
 end
