@@ -9,7 +9,7 @@ class Dog
      @name
    end
    def breed=(breed) #setter
-     @name = breed
+     @breed = breed
    end
 
 end
