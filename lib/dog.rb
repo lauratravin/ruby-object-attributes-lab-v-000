@@ -2,10 +2,10 @@ class Dog
    def initialize(name)
      @name = name
    end
-   def name=(newname) #setter
-     @name = newname
+   def name=(nname) #setter
+     @name = name
    end
    def name #getter
-     @dogname
+     @name
    end
 end
