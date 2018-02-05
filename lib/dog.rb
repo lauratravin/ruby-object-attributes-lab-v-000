@@ -1,6 +1,6 @@
 class Dog
    def initialize()
-       @name   
+       @name
    end
    def name=(new_name) #setter
      @name = new_name
@@ -8,4 +8,8 @@ class Dog
    def name #getter
      @name
    end
+   def name=(breed) #setter
+     @name = breed
+   end
+
 end
