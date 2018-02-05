@@ -1,5 +1,5 @@
 class Person
-   def initialize() #no 
+   def initialize() #no
        @name
    end
    def name=(new_name) #setter of name
