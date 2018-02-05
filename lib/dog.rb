@@ -8,7 +8,7 @@ class Dog
    def name #getter
      @name
    end
-   def name=(breed) #setter
+   def breed=(breed) #setter
      @name = breed
    end
 
